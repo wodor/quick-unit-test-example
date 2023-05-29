@@ -1,0 +1,17 @@
+{
+    "name": "artwielogorski/testy-michal",
+    "autoload": {
+        "psr-4": {
+            "Artwielogorski\\TestyMichal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Art Wielogorski",
+            "email": "artur.wielogorski@arbor-education.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    }
+}
